@@ -1,0 +1,12 @@
+name: PepeRandomTeleport
+version: 1.0
+main: com.pepe.pprtp.peperandomteleport.PepeRandomTeleport
+api-version: 1.15
+authors: [ EuropeanPepe ]
+description: A custom plugin for Random Teleportation
+website: pepecraft.com
+commands:
+  rtp:
+    aliases: []
+    description: teleport to random location
+
